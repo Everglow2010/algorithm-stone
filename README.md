@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_heap_stack_queue.svg">
 
 #### 链表路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_linked_list.svg">
+<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/maingst/images/leetcode_linked_list.svg">
 
 #### 二分查找（进度100%）
 <img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_binary_search.svg">
